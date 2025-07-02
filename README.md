@@ -28,14 +28,29 @@
      
 - **College Engagement and Leadership Roles** – Supported planning and marketing for industry events at IIC, enhancing outreach through digital/offline strategies.
 
+
+
+<style>
+  .social-icon {
+    height: 30px;
+    width: 40px;
+    filter: invert(33%) sepia(98%) saturate(1516%) hue-rotate(180deg) brightness(93%) contrast(91%);
+    transition: transform 0.2s;
+  }
+
+  .social-icon:hover {
+    transform: scale(1.1);
+  }
+</style>
+
 <h3 align="left">Connect with me:) :</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shalin-shah-0901961b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shalin shah " height="30" width="40" /></a>
 <a href="https://www.kaggle.com/shalin01shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Shalin shah" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/shalin_shah_work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Shalin shah" height="30" width="40" /></a>
-<a href="https://x.com/Shalin___07" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" alt="Twitter" height="30" width="40" />
-</a>
+ <a href="https://x.com/Shalin___07" target="_blank">
+    <img class="social-icon" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" alt="Twitter" />
+  </a>
 <a href="https://huggingface.co/Shalinshah" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/huggingface.svg" alt="Hugging Face" height="30" width="40" />
 </a>  
