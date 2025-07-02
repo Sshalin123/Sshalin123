@@ -30,9 +30,15 @@
 
 <h3 align="left">Connect with me:) :</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shalin-shah-0901961b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taitil chheda" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/shalin01shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="taitilchheda" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/shalin_shah_work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taitil chheda" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shalin-shah-0901961b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Shalin shah " height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shalin01shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Shalin shah" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/shalin_shah_work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Shalin shah" height="30" width="40" /></a>
+<a href="https://x.com/Shalin___07" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+<a href="https://huggingface.co/Shalinshah" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/huggingface.svg" alt="Hugging Face" height="30" width="40" />
+</a>  
 </p> 
 
 ##  Tech Stack
