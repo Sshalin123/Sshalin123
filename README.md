@@ -26,7 +26,14 @@
    
 - **Co-Founder @  [kirana mart](https://kirana-mart.vercel.app/) (Feb 2025 – Present)** – Building a smart quick-commerce system empowering local vendors with real-time inventory and pricing.
      
-- **College Engagement and Leadership Roles** – Supported planning and marketing for industry events at IIC, enhancing outreach through digital/offline strategies.  
+- **College Engagement and Leadership Roles** – Supported planning and marketing for industry events at IIC, enhancing outreach through digital/offline strategies.
+
+<h3 align="left">Connect with me:) :</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/shalin-shah-0901961b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="taitil chheda" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shalin01shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="taitilchheda" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/shalin_shah_work" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="taitil chheda" height="30" width="40" /></a>
+</p> 
 
 ##  Tech Stack
 
