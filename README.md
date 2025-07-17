@@ -25,6 +25,9 @@
 - **Co-Founder @  [Kaizen](https://kaizen-ashy.vercel.app/) (Apr 2024 – Present)** – Developing an AI-powered equity trading platform offering institutional-grade analytics for retail traders.  
    
 - **Co-Founder @  [kirana mart](https://kirana-mart.vercel.app/) (Feb 2025 – Present)** – Building a smart quick-commerce system empowering local vendors with real-time inventory and pricing.
+
+- **Co-Founder @  [Data from web is all you need](https://v0-freelance-data-scrapper.vercel.app/) (June 2025 – Present)** – We offer DataScrape Pro, a startup providing scalable, on-demand web scraping solutions for businesses—enabling effortless data extraction from any website, including dynamic and JavaScript-heavy platforms. .
+
      
 - **College Engagement and Leadership Roles** – Supported planning and marketing for industry events at IIC, enhancing outreach through digital/offline strategies.
 
