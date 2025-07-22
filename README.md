@@ -68,19 +68,15 @@
 </p>
 
 
-##  GitHub Snake Animation
+## GitHub Snake Animation
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Sshalin123/Sshalin123/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Sshalin123/Sshalin123/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake animation"
-      src="https://raw.githubusercontent.com/Sshalin123/Sshalin123/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sshalin123/Sshalin123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sshalin123/Sshalin123/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Sshalin123/Sshalin123/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
 
 
 
@@ -89,8 +85,6 @@
 🗓 **Joined GitHub:** 1 years ago  
 
 📁 **Public Repos:** 10+ 
-
-📁 **Private Repos under NDA :** 5+ 
 
 🏆 **Total Contributions in 2025:** 200+
 
