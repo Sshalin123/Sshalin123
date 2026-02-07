@@ -161,11 +161,11 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
 
 <div align="center">
 
-  ![Shalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sshalin123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=b624ff&text_color=ffffff)
+  ![Shalin's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sshalin123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=b624ff&text_color=ffffff&cache_seconds=86400)
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sshalin123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff)
+  ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sshalin123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&cache_seconds=86400)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sshalin123&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=b624ff&currStreakLabel=00d9ff)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Sshalin123&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=b624ff&currStreakLabel=00d9ff)
 
 </div>
 
