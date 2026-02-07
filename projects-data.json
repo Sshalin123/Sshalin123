@@ -1,0 +1,65 @@
+{
+  "metadata": {
+    "totalProjects": 67,
+    "lastUpdated": "2026-02-07",
+    "categories": 10
+  },
+  "categories": [
+    {"id": "gtm", "label": "GTM & Automation", "icon": "🎯", "count": 10},
+    {"id": "defi", "label": "DeFi & Blockchain", "icon": "⛓️", "count": 5},
+    {"id": "aiml", "label": "AI/ML Research", "icon": "🤖", "count": 14},
+    {"id": "mlops", "label": "MLOps & Infrastructure", "icon": "🔧", "count": 6},
+    {"id": "finance", "label": "Finance & Trading", "icon": "💹", "count": 7},
+    {"id": "fullstack", "label": "Full-Stack Apps", "icon": "💻", "count": 11},
+    {"id": "datamining", "label": "Data Mining", "icon": "🔍", "count": 4},
+    {"id": "hackathon", "label": "Hackathon Projects", "icon": "🏆", "count": 3},
+    {"id": "research", "label": "Research & Academic", "icon": "🔬", "count": 3},
+    {"id": "infrastructure", "label": "Infrastructure", "icon": "🏗️", "count": 4}
+  ],
+  "projects": [
+    {
+      "id": "research-agent-geo-gtm",
+      "title": "Research-agent-GEO-GTM",
+      "description": "Autonomous B2B lead generation agent with dual-pipeline AI research system",
+      "category": "gtm",
+      "priority": "featured",
+      "status": "production",
+      "tags": ["AI", "Lead Generation", "Automation", "CRM"],
+      "techStack": ["Claude 4.5", "Python", "N8N", "Zoho CRM", "PhantomBuster", "Instantly"],
+      "githubUrl": "https://github.com/Sshalin123/Research-agent-GEO-GTM",
+      "liveUrl": "https://sshalin123.github.io/Research-agent-GEO-GTM/",
+      "metrics": [
+        {"label": "Leads per day", "value": "10-15"},
+        {"label": "Cost per lead", "value": "$2.80"},
+        {"label": "Uptime", "value": "99.2%"}
+      ]
+    },
+    {
+      "id": "dalalmind",
+      "title": "DalalMind",
+      "description": "AI-powered Indian stock trading system with multi-LLM ensemble",
+      "category": "aiml",
+      "priority": "featured",
+      "status": "production",
+      "tags": ["Trading", "AI", "FinTech", "Multi-LLM"],
+      "techStack": ["Python", "Claude", "Gemini", "Kimi", "FastAPI", "Streamlit"],
+      "githubUrl": "https://github.com/Sshalin123/DalalMind",
+      "metrics": [
+        {"label": "Win Rate", "value": "80%"},
+        {"label": "Sharpe Ratio", "value": "18.07"},
+        {"label": "Lines of Code", "value": "17,000+"}
+      ]
+    },
+    {
+      "id": "athena-protocol",
+      "title": "Athena Protocol",
+      "description": "Multi-council AI decision-making for institutional DeFi",
+      "category": "defi",
+      "priority": "featured",
+      "status": "active",
+      "tags": ["DeFi", "AI", "Multi-Model", "Institutional"],
+      "techStack": ["GPT-5.1", "Claude 4.5", "Gemini 3", "Grok-4", "Python"],
+      "githubUrl": "https://github.com/Sshalin123/athena-protocol-frontend"
+    }
+  ]
+}
