@@ -263,6 +263,26 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
 
 ---
 
+## 📊 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sshalin123&bg_color=0d1117&color=58a6ff&line=9ecbff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sshalin123/Sshalin123/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sshalin123/Sshalin123/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Sshalin123/Sshalin123/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
