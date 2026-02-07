@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Shalin Shah
+# Hey, I'm Shalin Shah
 
 <div align="center">
 
@@ -17,22 +17,22 @@
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 **Current Focus (2025-2026):**
-- 🎯 **AI GTM Engineer @ NDA** - Built GEO system reducing costs from $20K to $700/month (96% reduction)
-- 🏭 **ML Project Lead @ Automotive Manufacturing** - Selected 1 of 1000, Maruti Suzuki partnership
-- 💹 **Kaizen** - Stealth AI-powered equity trading platform (Bloomberg alternative for retail)
-- 🛒 **Kirana Mart** - Smart quick-commerce empowering local vendors
-- 🕷️ **DataScrape Pro** - Scalable web scraping SaaS serving 30+ businesses
+- **AI GTM Engineer @ NDA** - Building GEO + GTM system reducing costs upto $20K to $400/month (96%+ reduction)
+- **ML Project Lead @ Automotive Manufacturing** - Selected 1 of 1000, Maruti Suzuki partnership
+- **Kaizen** - Stealth AI-powered equity trading platform (Bloomberg alternative for retail)
+- **Kirana Mart** - Smart quick-commerce empowering local vendors
+- **DataScrape Pro** - Scalable web scraping SaaS serving 30+ businesses
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🔥 Production Systems
+### Production Systems
 
 </div>
 
@@ -88,20 +88,20 @@
 
 <div align="center">
 
-### 📚 Research & Paper Implementations
+### Research & Paper Implementations
 
 </div>
 
-#### 📝 [Attention Is All You Need](https://github.com/Sshalin123/Implementing-Attention-is-all-you-need-paper)
+#### [Attention Is All You Need](https://github.com/Sshalin123/Implementing-Attention-is-all-you-need-paper)
 Complete transformer from scratch with detailed documentation. 1,000+ developers learned from this implementation.
 
-#### 🎮 [Reinforcement Learning Algo Implementation](https://github.com/Sshalin123/Reinforcement-learning-book-implementation)
+#### [Reinforcement Learning Algo Implementation](https://github.com/Sshalin123/Reinforcement-learning-book-implementation)
 10+ RL algorithms from Sutton & Barto's textbook - Q-Learning, SARSA, DQN, PPO, DDPG, A3C.
 
-#### 🤝 [Trading Agent using RL](https://github.com/Sshalin123/Trading-Agent-using-Reinforcement-Learning)
+#### [Trading Agent using RL](https://github.com/Sshalin123/Trading-Agent-using-Reinforcement-Learning)
 DQN/PPO trading agent achieving 24.5% annual returns with 12% max drawdown.
 
-#### 🧠 [SEAL - Self-Editing Approximate Learning Implementation](https://github.com/Sshalin123/SEAL)
+#### [SEAL - Self-Editing Approximate Learning Implementation](https://github.com/Sshalin123/SEAL)
 Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art results.
 
 ---
@@ -157,7 +157,7 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -171,9 +171,9 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
 
 ---
 
-## 🏆 Key Achievements
+## Key Achievements
 
-### 💼 Professional Experience
+### Professional Experience
 
 - **AI GTM Engineer @ NDA** (Aug 2025 - Present)
   - Building 25-Agent Swarm for GTM automation
@@ -191,50 +191,50 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
   - Research on catastrophic forgetting in LLMs
   - Continual learning and meta reinforcement learning
 
-### 🎓 Education & Training
+### Education & Training
 
 - **B.Tech AI/ML** - DJ Sanghvi College of Engineering (2023-2027) | CGPA: 8.4/10
 - **Robo-AI Training** - 45-day robotics & AI simulation (NVIDIA, AIC-GUSEC, Rotary)
 
-### 🏅 Leadership
+### Leadership
 
 - **Co-Chairperson** - Institution's Innovation Council, DJSCE (July 2025 - Present)
 - Leading transition from events to innovations
 
 ---
 
-## 💡 Domain Expertise
+## Domain Expertise
 
 <table>
   <tr>
-    <td><b>🎯 GTM & Automation</b></td>
+    <td><b> GTM & Automation</b></td>
     <td>Lead generation, CRM automation, N8N workflows, Clay enrichment</td>
   </tr>
   <tr>
-    <td><b>🤖 AI/ML Engineering</b></td>
+    <td><b> AI/ML Engineering</b></td>
     <td>LLMs, RAG systems, multi-agent architectures, MLOps</td>
   </tr>
   <tr>
-    <td><b>📈 Finance & Trading</b></td>
+    <td><b> Finance & Trading</b></td>
     <td>Algorithmic trading, market prediction, portfolio optimization</td>
   </tr>
   <tr>
-    <td><b>⛓️ DeFi & Blockchain</b></td>
+    <td><b> DeFi & Blockchain</b></td>
     <td>Smart contracts, protocol design, institutional DeFi intelligence</td>
   </tr>
   <tr>
-    <td><b>🛠️ Full-Stack Dev</b></td>
+    <td><b> Full-Stack Dev</b></td>
     <td>React/Next.js, FastAPI, microservices, scalable architectures</td>
   </tr>
   <tr>
-    <td><b>🔧 MLOps & DevOps</b></td>
+    <td><b> MLOps & DevOps</b></td>
     <td>Kubernetes, CI/CD, model deployment, monitoring, ETL pipelines</td>
   </tr>
 </table>
 
 ---
 
-## 📈 Project Stats
+## Project Stats
 
 <div align="center">
 
@@ -253,17 +253,17 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
 
 ---
 
-## 🎯 Currently Learning
+## Currently Learning
 
-- 🧠 Advanced RAG architectures and agentic workflows
-- 🔗 Cross-chain DeFi protocols and bridges
-- 📊 Real-time streaming architectures with Kafka
-- 🤖 Multi-agent orchestration and swarm intelligence
-- 🔐 Zero-knowledge proofs and privacy-preserving ML
+- Advanced RAG architectures and agentic workflows
+- Cross-chain DeFi protocols and bridges
+- Real-time streaming architectures with Kafka
+- Multi-agent orchestration and swarm intelligence
+- Zero-knowledge proofs and privacy-preserving ML
 
 ---
 
-## 📊 Contribution Activity Graph
+## Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sshalin123&bg_color=0d1117&color=58a6ff&line=9ecbff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -271,7 +271,7 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -283,25 +283,25 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
 **Open to opportunities in AI Engineering, MLOps, and Product Development**
 
-📧 **Email:** shalinshah2020@gmail.com
+**Email:** shalinshah2020@gmail.com
 
-📱 **Phone:** +91 8428005555
+**Phone:** +91 8428005555
 
-📍 **Location:** Mumbai, India
+**Location:** Mumbai, India
 
-🔗 **LinkedIn:** [linkedin.com/in/shalinshah](https://linkedin.com/in/shalinshah)
+**LinkedIn:** [linkedin.com/in/shalinshah](https://linkedin.com/in/shalinshah)
 
-🐦 **X (Twitter):** [@Shalin___07](https://x.com/Shalin___07)
+**X (Twitter):** [@Shalin___07](https://x.com/Shalin___07)
 
-📸 **Instagram:** [@shalin___07](https://www.instagram.com/shalin___07/)
+**Instagram:** [@shalin___07](https://www.instagram.com/shalin___07/)
 
-💼 **Portfolio:** [Coming Soon]
+**Portfolio:** [Coming Soon]
 
 </div>
 
@@ -309,8 +309,8 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
 
 <div align="center">
 
-  ### 💫 "Building the future, one line of code at a time"
+  ### "Building the future, one line of code at a time"
 
-  <sub>⭐ From [Sshalin123](https://github.com/Sshalin123) ⚡</sub>
+  <sub>From [Sshalin123](https://github.com/Sshalin123)</sub>
 
 </div>
