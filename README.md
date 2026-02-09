@@ -21,9 +21,8 @@
 
 **Current Focus (2025-2026):**
 - **AI GTM Engineer @ NDA** - Building GEO + GTM system reducing costs upto $20K to $400/month (96%+ reduction)
-- **ML Project Lead @ Automotive Manufacturing** - Selected 1 of 1000, Maruti Suzuki partnership
-- **Kaizen** - Stealth AI-powered equity trading platform (Bloomberg alternative for retail)
-- **Kirana Mart** - Smart quick-commerce empowering local vendors
+- **ML Project Lead @ Automotive Manufacturing** - Project Lead 
+- **Kaizen** - Stealth AI-powered equity trading platform (Bloomberg alternative)
 - **DataScrape Pro** - Scalable web scraping SaaS serving 30+ businesses
 
 ---
@@ -101,8 +100,6 @@ Complete transformer from scratch with detailed documentation. 1,000+ developers
 #### [Trading Agent using RL](https://github.com/Sshalin123/Trading-Agent-using-Reinforcement-Learning)
 DQN/PPO trading agent achieving 24.5% annual returns with 12% max drawdown.
 
-#### [SEAL - Self-Editing Approximate Learning Implementation](https://github.com/Sshalin123/SEAL)
-Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art results.
 
 ---
 
@@ -182,7 +179,7 @@ Few-shot learning with 94.2% accuracy, 99% parameter reduction, state-of-the-art
   - Building scalable GTM infrastructure and learning CRM systems for lead management and tracking
 
 - **Project Lead @ Automotive Manufacturing PVT LTD** (Nov 2025 - Present)
-  - Selected 1 of 1000 candidates
+  - Porject Lead 
   - Maruti Suzuki tie-up for CRM + AI Calling + Inventory management
   - Multilingual AI calling with sentiment analysis
   - Building scalable systems and AI-powered solutions in the domain of Sales, Support, Accounts, Dealership Management Software and Order Management Software
