@@ -298,7 +298,7 @@ DQN/PPO trading agent achieving 24.5% annual returns with 12% max drawdown.
 
 **Instagram:** [@shalin___07](https://www.instagram.com/shalin___07/)
 
-**Portfolio:** [Coming Soon]
+**Portfolio:** [[SHALIN SHAH](https://shalin-portfolio-website.vercel.app/)]
 
 </div>
 
